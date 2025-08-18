@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { ChevronRight } from 'lucide-react';
 import { getProducts } from '../../data/mockData';
 import ProductGrid from '../Product/ProductGrid';
 
